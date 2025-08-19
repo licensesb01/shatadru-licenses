@@ -1,0 +1,99 @@
+Shatadru And Open Source Commercial Licence v1 (SAOSCL v1)
+
+Definitions
+
+“Licensor” – Refers to Shatadru Bose, the creator and copyright holder of the Licensed Work.
+
+“Licensed Work” – Refers to any digital product, software, documentation, or derivative covered under this license.
+
+“Licensee” – Refers to any business, organization, or individual granted commercial rights under this License.
+
+“Commercial Use” – Refers to any use that involves financial gain, profit, sale, service monetization, or business advantage.
+
+“Derivative Work” – Refers to modifications, adaptations, translations, or integrations of the Licensed Work.
+
+“Attribution” – Clear credit to the Licensor, including the name “Shatadru And Open Source Commercial Licence v1”.
+
+
+
+---
+
+Sections
+
+1. Grant of Commercial Rights
+
+The Licensor grants the Licensee a non-exclusive, worldwide right to use, modify, and distribute the Licensed Work for commercial purposes, subject to the terms of this License.
+
+2. Attribution
+
+All commercial use must clearly state:
+“Licensed under Shatadru And Open Source Commercial Licence v1 by Shatadru Bose.”
+
+3. Modifications & Derivatives
+
+Licensees may create derivative works for commercial purposes provided:
+
+1. Attribution is maintained.
+
+
+2. This License is included.
+
+
+3. Modifications are documented.
+
+
+
+4. Redistribution & Sales
+
+Redistribution, resale, or bundling of the Licensed Work in commercial products is allowed only if attribution is included and the work is not misrepresented as solely created by the Licensee.
+
+5. Combination with Proprietary Works
+
+The Licensed Work may be combined with proprietary or third-party software in commercial products, provided attribution to the Licensor remains intact.
+
+6. Prohibited Uses
+
+The Licensed Work may not be used commercially for:
+
+Fraudulent, malicious, or unlawful purposes.
+
+Misleading representation of authorship.
+
+NFT resale without permission.
+
+
+7. Warranty
+
+The Licensed Work is provided with a limited warranty that it functions as documented at release. The Licensor will provide reasonable updates and fixes.
+
+8. Liability Limitation
+
+The Licensor is not liable for indirect, incidental, or consequential damages arising from commercial use. Liability is limited to the fees paid for the commercial license.
+
+9. Support & Maintenance
+
+Commercial Licensees may receive support, updates, and improvements as determined by the Licensor. Premium support may require additional agreements.
+
+10. Fees
+
+A one-time or recurring fee, agreed upon between the Licensor and Licensee, must be paid for commercial usage rights.
+
+11. Term & Renewal
+
+The License is valid for one year unless otherwise specified. Renewal terms must be agreed upon prior to expiration.
+
+12. Termination
+
+This License may be terminated by the Licensor if the Licensee violates any term. Upon termination, all rights to use the Licensed Work commercially are revoked.
+
+13. Jurisdiction
+
+This License shall be governed under European Union law, regardless of the Licensee’s location.
+
+14. Confidentiality
+
+The Licensee must not disclose private communications, pricing agreements, or unpublished parts of the Licensed Work without explicit written consent from the Licensor.
+
+15. Versioning
+
+This is Shatadru And Open Source Commercial Licence v1. Future versions may be published by the Licensor.
