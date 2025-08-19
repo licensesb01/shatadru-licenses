@@ -1,0 +1,94 @@
+Shatadru And Open Source Licence v1 (SAOSL v1)
+
+Definitions
+
+“Licensor” – Refers to Shatadru Bose, the creator and copyright holder of the licensed work.
+
+“Licensed Work” – Refers to any digital product, software, documentation, or derivative covered under this license.
+
+“Licensee” – Refers to any person or entity using, modifying, or redistributing the Licensed Work.
+
+“Commercial Use” – Refers to use of the Licensed Work in exchange for money, goods, services, or business advantage.
+
+“Non-Commercial Use” – Refers to personal, educational, research, or hobby use where no financial gain is involved.
+
+“Derivative Work” – Refers to modifications, adaptations, translations, or integrations of the Licensed Work.
+
+“Attribution” – Clear credit to the Licensor, including the name “Shatadru And Open Source Licence v1”.
+
+
+
+---
+
+Sections
+
+1. Grant of Rights
+
+The Licensor grants the Licensee the right to use, study, and modify the Licensed Work, subject to this License.
+
+2. Open Source Freedom
+
+The Licensed Work is open source; modifications are permitted but must always include credit to the Licensor and a copy of this License.
+
+3. Non-Commercial Use
+
+Redistribution is allowed for non-commercial purposes only, provided attribution is included.
+
+4. Commercial Use
+
+Commercial use requires obtaining a separate Commercial Licence from the Licensor. Unauthorized commercial use is prohibited.
+
+5. Redistribution
+
+Licensees may not freely redistribute unmodified or modified versions for commercial gain. Redistribution for non-commercial use is permitted with attribution.
+
+6. Derivative Works
+
+Licensees may create derivative works, but they must:
+
+1. Credit the Licensor.
+
+
+2. Retain this License.
+
+
+3. State the modifications made.
+
+
+
+7. Attribution Requirement
+
+All copies or substantial uses of the Licensed Work must include attribution:
+“Licensed under Shatadru And Open Source Licence v1 by Shatadru Bose.”
+
+8. Combination with Other Works
+
+The Licensed Work may be combined with other projects, provided attribution is preserved and the combined work respects this License.
+
+9. Prohibited Uses
+
+The Licensed Work may not be used for malicious purposes, including but not limited to: scams, unauthorized surveillance, disinformation, or plagiarism.
+
+10. Warranty
+
+The Licensed Work is provided with a limited warranty ensuring it functions as documented at the time of release. The Licensor is not responsible for misuse or modifications beyond the original release.
+
+11. Liability Limitation
+
+The Licensor is not liable for damages arising from improper, malicious, or unauthorized uses of the Licensed Work.
+
+12. Termination
+
+This License terminates automatically if the Licensee violates its terms. Upon termination, all rights to use the Licensed Work are revoked.
+
+13. Jurisdiction
+
+This License shall be governed and enforced under European Union law, regardless of the Licensee’s location.
+
+14. Fun & Unique Clause
+
+Any Licensee using the Licensed Work must uphold the principle of creative freedom and respect. The Licensed Work may never be sold as NFTs or used in meme exploitation without attribution.
+
+15. Versioning & Updates
+
+This is Shatadru And Open Source Licence v1. Updates may be released by the Licensor. Licensees must follow the version specified at the time of use unless they explicitly upgrade.
